@@ -28,7 +28,7 @@ I am a passionate and dedicated **Frontend Developer** focused on building clean
 ## 📫 Contact Me
 
 - 📧 Email: piryajanparhyar@gmail.com
-- 💼 LinkedIn: your-linkedin-link
+- 💼 LinkedIn:https://www.linkedin.com/in/pirya-jan-0b20b0389/
 
 ---
 
