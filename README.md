@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Pirya Jan
-My one Interest Is Technology And computers , And Now I explore this field ...
-Learning phase 
-Try to get technology skills
+One Deep Interest is Technoloy.
+Learning phase
 
 
 ## 📫 Contact Me
