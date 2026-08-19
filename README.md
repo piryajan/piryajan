@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pirya Jan
-One Deep Interest is Technoloy.
+One Deep Interest is Technology.
 Learning phase
 
 
