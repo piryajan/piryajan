@@ -1,35 +1,14 @@
 # 👋 Hi, I'm Pirya Jan
-### 💻 Frontend Developer | Web Development Enthusiast
+My one Interest Is Technology And computers , And Now I explore this field ...
+Learning phase 
+Try to get technology skills
 
-I am a passionate and dedicated **Frontend Developer** focused on building clean, responsive, and user-friendly web applications.
-
----
-
-## 🚀 About Me
-
-- 🌱 Continuously improving my skills in modern web technologies
-- 💡 Focused on UI/UX and responsive design
-- 🎯 Goal: Become a highly skilled Full-Stack Developer
-- 📚 Always learning and growing in the tech world
-
----
-
-## 🛠️ Skills
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Web Design
-- Git & GitHub
-- React (Learning & Building Projects)
-
----
 
 ## 📫 Contact Me
 
-- 📧 Email: piryajanparhyar@gmail.com
+- 📧 Email: mspiryajan@gmail.com
 - 💼 LinkedIn:https://www.linkedin.com/in/pirya-jan-0b20b0389/
 
----
+
 
 ✨ "Code. Create. Innovate."
